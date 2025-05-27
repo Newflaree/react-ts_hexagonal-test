@@ -1,8 +1,7 @@
+import LoginPage from './presentation/auth/pages/LoginPage';
 
 const App = () => {
-  return (
-    <div>AppPage</div>
-  );
+  return <LoginPage />
 }
 
 export default App;
